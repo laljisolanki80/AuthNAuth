@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29009.5
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuthenticationNAuthorization", "..\AuthenticationNAuthorization\AuthenticationNAuthorization.csproj", "{D9DFCBE4-FF8E-41CD-967C-A7CEFD74157C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AuthenticationNAuthorization", "..\AuthenticationNAuthorization\AuthenticationNAuthorization.csproj", "{D9DFCBE4-FF8E-41CD-967C-A7CEFD74157C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SignInNSignup", "SignInNSignup\SignInNSignup.csproj", "{56891AC6-1C5D-4998-BB59-2A786281B72E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{D9DFCBE4-FF8E-41CD-967C-A7CEFD74157C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D9DFCBE4-FF8E-41CD-967C-A7CEFD74157C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D9DFCBE4-FF8E-41CD-967C-A7CEFD74157C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56891AC6-1C5D-4998-BB59-2A786281B72E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56891AC6-1C5D-4998-BB59-2A786281B72E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56891AC6-1C5D-4998-BB59-2A786281B72E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56891AC6-1C5D-4998-BB59-2A786281B72E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
