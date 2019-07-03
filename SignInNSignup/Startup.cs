@@ -48,6 +48,7 @@ namespace SignInNSignup
                 options.Password.RequireLowercase = false;
                 options.Password.RequireUppercase = false;
                 options.Password.RequiredLength = 4;
+                options.User.RequireUniqueEmail = true;
             });
 
             //Jwt Authentication
